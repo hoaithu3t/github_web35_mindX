@@ -1,0 +1,9 @@
+github & gitlab
+tạo repository mới
+
+remote : server chung :lớn nhất
+
+git remote add origin
+==>
+git remote add origin https://github.com/hoaithu3t/github_web35_mindX.git
+Tên mặc định của server remote là "origin"
